@@ -1,3 +1,9 @@
+Ubuntu16.04 编译梅林固件
+
+https://github.com/badboycxcc/asuswrt-merlin/blob/master/install.md
+
+
+
 asuswrt-merlin
 ==============
 
